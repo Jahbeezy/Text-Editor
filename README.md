@@ -30,7 +30,7 @@ JATE is an application that will allow you to take notes or jot down code either
                     
  ---
                     
- go to the deployment page and click the download to get the PWA.
+ go to the deployment page [here](https://intense-sea-21999.herokuapp.com/) and click the download to get the PWA.
                     
  ---
                     
