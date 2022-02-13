@@ -6,7 +6,7 @@
                     
  ---
                     
- This is an application that you can download as a package to your computer and use offline. Using IndexDB and webpack to manage the stored data and deployment.
+JATE is an application that will allow you to take notes or jot down code either online or offline since you can download it as a package to your computer and use offline. JATE uses IndexDB and webpack to manage the stored data and deployment.
                     
  ## Table of Contents
                     
